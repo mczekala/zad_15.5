@@ -1,0 +1,24 @@
+{
+  "name": "zad_14.8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server -p 8006 ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babel-standalone": "^6.26.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
